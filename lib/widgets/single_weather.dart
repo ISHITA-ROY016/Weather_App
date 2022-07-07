@@ -38,11 +38,7 @@ class SingleWeather extends StatelessWidget {
                         Text(
                           locationList[index].city,
                           style: GoogleFonts.lato(
-<<<<<<< HEAD
-                            fontSize: 35,
-=======
                             fontSize: 36,
->>>>>>> f7509dc (Initial commit)
                             fontWeight: FontWeight.bold,
                             color: Colors.white,
                           ),
